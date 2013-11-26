@@ -1,0 +1,10 @@
+name: BowTag
+version: 0.0.1
+description: BowTag for the Galaxy Network
+author: Leeman
+main: com.github.l33m4n123.bowtag.BowTag
+depend: [Vault]
+commands:
+  bowTag:
+    description: The Main command for BowTag
+    alias: [bt]
